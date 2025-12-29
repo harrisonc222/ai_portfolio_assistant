@@ -34,6 +34,7 @@ Early development — Step 2A (Portfolio ingest & normalization)
 - No price targets
 - No automated trading
 - No performance guarantees
+- v1 scope: USD-denominated portfolios with U.S.-listed tickers (international exposure via U.S.-listed ETFs is fine).
 
 ## Roadmap
 
